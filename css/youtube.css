@@ -1,0 +1,7 @@
+.youtube-container iframe {
+    aspect-ratio: 16/9;
+    width: 100%;
+    max-width: 100%;
+    margin-inline: 0;
+    margin-block: 0;
+}
